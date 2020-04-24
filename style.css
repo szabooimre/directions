@@ -1,0 +1,26 @@
+div {
+  font-family: 'Baloo Thambi 2', cursive;
+  border: 6px solid #4285f4;
+  width: 300px;
+}
+.N{
+  background: #E67676;
+}
+.E{
+  background: #F2F062;
+}
+.W{
+  background: #A9E6E6;
+}
+.S{
+  background: #7692E4;
+}
+p {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  height: 100px;
+  margin: 0px;
+  padding-top: 40px;
+}
